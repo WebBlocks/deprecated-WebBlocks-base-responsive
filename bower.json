@@ -1,0 +1,14 @@
+{
+  "name": "WebBlocks-base-responsive",
+  "version": "2.0.0",
+  "main": [
+    "Blockfile.rb"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+  }
+}
